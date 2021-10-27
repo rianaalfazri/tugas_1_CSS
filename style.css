@@ -1,0 +1,10 @@
+p {
+    font-size: 18px;
+    color: blue;
+}
+
+img {
+    width: 25px;
+    float: left;
+    padding: 6px;
+}
